@@ -1,15 +1,6 @@
 ﻿# 🛰 About
-A very clean external, borderless ImGui project written as a YouTube tutorial.
+A basic and VAC-detectable aimbot for CSGO
 
-## 🌠 Video
-Make an ImGui cheat menu tutorial [video](https://www.youtube.com/watch?v=Nrta_J_c9Cc) here
+Code for the gui mostly copied from here: [video](https://www.youtube.com/watch?v=Nrta_J_c9Cc) 
 
-## 🌌 Setup
-- Clone the repo
-- Customize menu to your liking
-- Build in Release | x86
-- Find your binary in the `Release` folder
-- Enjoy
-
-## 🗿 Disclaimer
-I am not responsible for anything that happens when you use this software. Cheers.
+<video src="https://youtu.be/wiYZAwk0HFw" width=180 />
